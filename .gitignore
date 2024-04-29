@@ -1,0 +1,22 @@
+*.pyc
+*.DS_Store
+dist
+zha_quirks.egg-info
+build
+.vscode/settings.json
+.tox
+.idea
+.coverage
+htmlcov/
+.mypy_cache
+.pytest_cache
+.ruff_cache
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+__pycache__/
